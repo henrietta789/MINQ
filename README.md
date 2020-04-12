@@ -1,0 +1,2 @@
+# MINQ
+N queen problem 
